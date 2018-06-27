@@ -20,6 +20,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    
+    @IBAction func createPostPressed(_ sender: UIButton) {
+//        let createPostVC = UIStoryboard.init(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "CreatePost")
+//        
+//        self.present(createPostVC, animated: true, completion: nil)
+        
+        
+    }
+    
+    
 }
 
